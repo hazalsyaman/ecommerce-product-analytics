@@ -1,0 +1,201 @@
+﻿order_id;order_date;customer_id;city;acquisition_channel;product_id;product_name;category;quantity;unit_price;discount_rate;order_status;net_revenue
+O0001;2026-02-27;C018;Ankara;Referral;P002;Mechanical Keyboard;Electronics;1;1.299,90 ₺;5%;Completed;1.234,90 ₺
+O0002;2026-01-24;C028;İstanbul;Referral;P002;Mechanical Keyboard;Electronics;4;1.299,90 ₺;0%;Completed;5.199,60 ₺
+O0003;2026-02-26;C058;Antalya;Social;P001;Wireless Mouse;Electronics;2;549,90 ₺;15%;Completed;934,83 ₺
+O0004;2026-03-13;C020;İstanbul;Social;P001;Wireless Mouse;Electronics;2;549,90 ₺;10%;Completed;989,82 ₺
+O0005;2026-04-02;C045;Antalya;Social;P002;Mechanical Keyboard;Electronics;1;1.299,90 ₺;10%;Completed;1.169,91 ₺
+O0006;2026-04-07;C011;Antalya;Social;P001;Wireless Mouse;Electronics;4;549,90 ₺;15%;Completed;1.869,66 ₺
+O0007;2026-06-19;C030;İzmir;Organic;P006;Water Bottle;Lifestyle;2;279,90 ₺;0%;Completed;559,80 ₺
+O0008;2026-04-27;C047;İstanbul;Social;P004;Notebook Set;Stationery;1;189,90 ₺;10%;Completed;170,91 ₺
+O0009;2026-06-24;C010;Antalya;Paid Search;P006;Water Bottle;Lifestyle;2;279,90 ₺;5%;Returned;0,00 ₺
+O0010;2026-03-11;C029;İzmir;Organic;P004;Notebook Set;Stationery;2;189,90 ₺;10%;Completed;341,82 ₺
+O0011;2026-03-10;C009;İstanbul;Referral;P004;Notebook Set;Stationery;1;189,90 ₺;5%;Completed;180,41 ₺
+O0012;2026-06-14;C059;İstanbul;Social;P006;Water Bottle;Lifestyle;2;279,90 ₺;10%;Completed;503,82 ₺
+O0013;2026-03-09;C055;Antalya;Email;P003;USB-C Hub;Electronics;2;899,90 ₺;15%;Cancelled;0,00 ₺
+O0014;2026-05-07;C012;Ankara;Organic;P006;Water Bottle;Lifestyle;2;279,90 ₺;0%;Cancelled;0,00 ₺
+O0015;2026-01-17;C050;Bursa;Referral;P003;USB-C Hub;Electronics;2;899,90 ₺;10%;Cancelled;0,00 ₺
+O0016;2026-06-24;C015;Antalya;Social;P008;Headphones;Electronics;3;1.599,90 ₺;15%;Completed;4.079,75 ₺
+O0017;2026-02-10;C059;Ankara;Social;P006;Water Bottle;Lifestyle;1;279,90 ₺;5%;Completed;265,90 ₺
+O0018;2026-05-10;C026;İstanbul;Social;P003;USB-C Hub;Electronics;1;899,90 ₺;5%;Returned;0,00 ₺
+O0019;2026-05-06;C003;Ankara;Social;P003;USB-C Hub;Electronics;1;899,90 ₺;15%;Completed;764,91 ₺
+O0020;2026-05-26;C011;Ankara;Email;P005;Desk Organizer;Home & Office;2;349,90 ₺;0%;Completed;699,80 ₺
+O0021;2026-05-02;C022;İzmir;Referral;P002;Mechanical Keyboard;Electronics;2;1.299,90 ₺;0%;Returned;0,00 ₺
+O0022;2026-06-26;C026;İzmir;Email;P007;Laptop Stand;Home & Office;2;749,90 ₺;15%;Returned;0,00 ₺
+O0023;2026-01-31;C032;İstanbul;Organic;P006;Water Bottle;Lifestyle;4;279,90 ₺;15%;Completed;951,66 ₺
+O0024;2026-02-28;C029;Ankara;Organic;P006;Water Bottle;Lifestyle;1;279,90 ₺;15%;Cancelled;0,00 ₺
+O0025;2026-03-26;C010;Antalya;Paid Search;P001;Wireless Mouse;Electronics;2;549,90 ₺;0%;Completed;1.099,80 ₺
+O0026;2026-02-03;C061;İstanbul;Email;P005;Desk Organizer;Home & Office;4;349,90 ₺;0%;Cancelled;0,00 ₺
+O0027;2026-06-18;C056;İzmir;Email;P007;Laptop Stand;Home & Office;2;749,90 ₺;0%;Completed;1.499,80 ₺
+O0028;2026-06-17;C013;Ankara;Email;P007;Laptop Stand;Home & Office;4;749,90 ₺;0%;Returned;0,00 ₺
+O0029;2026-02-18;C069;Bursa;Paid Search;P006;Water Bottle;Lifestyle;1;279,90 ₺;0%;Completed;279,90 ₺
+O0030;2026-03-05;C010;Bursa;Referral;P007;Laptop Stand;Home & Office;2;749,90 ₺;5%;Completed;1.424,81 ₺
+O0031;2026-01-24;C031;İstanbul;Email;P002;Mechanical Keyboard;Electronics;1;1.299,90 ₺;15%;Completed;1.104,91 ₺
+O0032;2026-01-16;C022;Bursa;Organic;P008;Headphones;Electronics;4;1.599,90 ₺;0%;Completed;6.399,60 ₺
+O0033;2026-04-19;C063;İstanbul;Paid Search;P007;Laptop Stand;Home & Office;3;749,90 ₺;10%;Completed;2.024,73 ₺
+O0034;2026-05-19;C008;İzmir;Organic;P005;Desk Organizer;Home & Office;2;349,90 ₺;0%;Cancelled;0,00 ₺
+O0035;2026-02-10;C008;Antalya;Organic;P001;Wireless Mouse;Electronics;4;549,90 ₺;15%;Cancelled;0,00 ₺
+O0036;2026-06-22;C031;Bursa;Organic;P003;USB-C Hub;Electronics;1;899,90 ₺;15%;Completed;764,91 ₺
+O0037;2026-04-18;C067;İzmir;Social;P004;Notebook Set;Stationery;1;189,90 ₺;15%;Completed;161,41 ₺
+O0038;2026-04-12;C017;İzmir;Email;P004;Notebook Set;Stationery;3;189,90 ₺;0%;Completed;569,70 ₺
+O0039;2026-06-09;C013;Ankara;Referral;P006;Water Bottle;Lifestyle;1;279,90 ₺;0%;Completed;279,90 ₺
+O0040;2026-01-18;C032;İzmir;Social;P004;Notebook Set;Stationery;3;189,90 ₺;0%;Completed;569,70 ₺
+O0041;2026-03-19;C068;Ankara;Referral;P003;USB-C Hub;Electronics;4;899,90 ₺;15%;Returned;0,00 ₺
+O0042;2026-01-30;C014;Antalya;Paid Search;P005;Desk Organizer;Home & Office;1;349,90 ₺;0%;Completed;349,90 ₺
+O0043;2026-03-29;C027;İzmir;Referral;P005;Desk Organizer;Home & Office;3;349,90 ₺;15%;Completed;892,24 ₺
+O0044;2026-06-12;C055;İzmir;Organic;P008;Headphones;Electronics;3;1.599,90 ₺;0%;Completed;4.799,70 ₺
+O0045;2026-03-09;C021;Bursa;Referral;P001;Wireless Mouse;Electronics;3;549,90 ₺;0%;Returned;0,00 ₺
+O0046;2026-06-26;C020;Antalya;Organic;P007;Laptop Stand;Home & Office;1;749,90 ₺;0%;Completed;749,90 ₺
+O0047;2026-01-11;C040;İzmir;Organic;P006;Water Bottle;Lifestyle;2;279,90 ₺;10%;Completed;503,82 ₺
+O0048;2026-01-27;C046;Antalya;Email;P006;Water Bottle;Lifestyle;2;279,90 ₺;0%;Returned;0,00 ₺
+O0049;2026-04-16;C004;İstanbul;Social;P003;USB-C Hub;Electronics;2;899,90 ₺;0%;Completed;1.799,80 ₺
+O0050;2026-06-29;C014;Bursa;Organic;P007;Laptop Stand;Home & Office;2;749,90 ₺;5%;Completed;1.424,81 ₺
+O0051;2026-03-31;C040;İstanbul;Paid Search;P008;Headphones;Electronics;2;1.599,90 ₺;0%;Completed;3.199,80 ₺
+O0052;2026-03-13;C009;İzmir;Social;P001;Wireless Mouse;Electronics;2;549,90 ₺;10%;Completed;989,82 ₺
+O0053;2026-03-08;C023;Antalya;Social;P007;Laptop Stand;Home & Office;3;749,90 ₺;0%;Completed;2.249,70 ₺
+O0054;2026-03-30;C041;Bursa;Referral;P001;Wireless Mouse;Electronics;1;549,90 ₺;15%;Completed;467,41 ₺
+O0055;2026-03-07;C006;Bursa;Organic;P002;Mechanical Keyboard;Electronics;4;1.299,90 ₺;15%;Completed;4.419,66 ₺
+O0056;2026-06-20;C043;Antalya;Social;P004;Notebook Set;Stationery;3;189,90 ₺;10%;Completed;512,73 ₺
+O0057;2026-06-20;C053;İzmir;Email;P002;Mechanical Keyboard;Electronics;3;1.299,90 ₺;15%;Completed;3.314,75 ₺
+O0058;2026-06-20;C049;İstanbul;Referral;P005;Desk Organizer;Home & Office;2;349,90 ₺;0%;Completed;699,80 ₺
+O0059;2026-03-19;C037;İstanbul;Email;P005;Desk Organizer;Home & Office;4;349,90 ₺;15%;Completed;1.189,66 ₺
+O0060;2026-06-22;C028;Antalya;Email;P006;Water Bottle;Lifestyle;4;279,90 ₺;10%;Completed;1.007,64 ₺
+O0061;2026-06-19;C043;Ankara;Paid Search;P003;USB-C Hub;Electronics;1;899,90 ₺;5%;Cancelled;0,00 ₺
+O0062;2026-01-07;C006;İstanbul;Email;P005;Desk Organizer;Home & Office;2;349,90 ₺;0%;Completed;699,80 ₺
+O0063;2026-05-28;C025;Bursa;Email;P002;Mechanical Keyboard;Electronics;4;1.299,90 ₺;10%;Returned;0,00 ₺
+O0064;2026-06-26;C001;Ankara;Email;P007;Laptop Stand;Home & Office;2;749,90 ₺;0%;Returned;0,00 ₺
+O0065;2026-01-13;C032;Ankara;Email;P004;Notebook Set;Stationery;2;189,90 ₺;15%;Completed;322,83 ₺
+O0066;2026-06-02;C041;Bursa;Referral;P003;USB-C Hub;Electronics;4;899,90 ₺;15%;Cancelled;0,00 ₺
+O0067;2026-05-02;C058;İzmir;Paid Search;P007;Laptop Stand;Home & Office;4;749,90 ₺;0%;Returned;0,00 ₺
+O0068;2026-04-23;C010;İzmir;Paid Search;P005;Desk Organizer;Home & Office;4;349,90 ₺;0%;Completed;1.399,60 ₺
+O0069;2026-01-21;C018;İstanbul;Paid Search;P005;Desk Organizer;Home & Office;3;349,90 ₺;5%;Cancelled;0,00 ₺
+O0070;2026-04-17;C053;İzmir;Referral;P007;Laptop Stand;Home & Office;2;749,90 ₺;0%;Completed;1.499,80 ₺
+O0071;2026-04-18;C050;Antalya;Organic;P008;Headphones;Electronics;4;1.599,90 ₺;0%;Completed;6.399,60 ₺
+O0072;2026-03-18;C050;Bursa;Referral;P007;Laptop Stand;Home & Office;4;749,90 ₺;0%;Completed;2.999,60 ₺
+O0073;2026-04-22;C063;Ankara;Email;P004;Notebook Set;Stationery;4;189,90 ₺;0%;Completed;759,60 ₺
+O0074;2026-02-02;C069;Ankara;Email;P006;Water Bottle;Lifestyle;4;279,90 ₺;0%;Completed;1.119,60 ₺
+O0075;2026-04-29;C024;Ankara;Social;P001;Wireless Mouse;Electronics;1;549,90 ₺;10%;Completed;494,91 ₺
+O0076;2026-03-25;C044;Bursa;Social;P007;Laptop Stand;Home & Office;3;749,90 ₺;0%;Completed;2.249,70 ₺
+O0077;2026-01-05;C070;Ankara;Social;P007;Laptop Stand;Home & Office;3;749,90 ₺;0%;Completed;2.249,70 ₺
+O0078;2026-03-05;C026;Ankara;Referral;P004;Notebook Set;Stationery;1;189,90 ₺;0%;Completed;189,90 ₺
+O0079;2026-06-21;C015;Antalya;Paid Search;P003;USB-C Hub;Electronics;2;899,90 ₺;0%;Completed;1.799,80 ₺
+O0080;2026-06-05;C015;İstanbul;Social;P008;Headphones;Electronics;3;1.599,90 ₺;5%;Completed;4.559,72 ₺
+O0081;2026-06-23;C049;Bursa;Paid Search;P002;Mechanical Keyboard;Electronics;1;1.299,90 ₺;5%;Cancelled;0,00 ₺
+O0082;2026-03-19;C016;Antalya;Organic;P002;Mechanical Keyboard;Electronics;2;1.299,90 ₺;0%;Returned;0,00 ₺
+O0083;2026-05-10;C044;Ankara;Email;P006;Water Bottle;Lifestyle;4;279,90 ₺;5%;Completed;1.063,62 ₺
+O0084;2026-06-12;C059;İstanbul;Email;P008;Headphones;Electronics;1;1.599,90 ₺;10%;Completed;1.439,91 ₺
+O0085;2026-05-04;C060;Bursa;Referral;P003;USB-C Hub;Electronics;3;899,90 ₺;15%;Cancelled;0,00 ₺
+O0086;2026-03-13;C058;İstanbul;Email;P005;Desk Organizer;Home & Office;3;349,90 ₺;0%;Completed;1.049,70 ₺
+O0087;2026-03-25;C024;Bursa;Paid Search;P007;Laptop Stand;Home & Office;3;749,90 ₺;0%;Completed;2.249,70 ₺
+O0088;2026-06-02;C036;Antalya;Organic;P006;Water Bottle;Lifestyle;3;279,90 ₺;5%;Completed;797,71 ₺
+O0089;2026-04-15;C063;Antalya;Paid Search;P004;Notebook Set;Stationery;1;189,90 ₺;0%;Returned;0,00 ₺
+O0090;2026-01-24;C038;İstanbul;Email;P008;Headphones;Electronics;4;1.599,90 ₺;10%;Completed;5.759,64 ₺
+O0091;2026-05-02;C068;İzmir;Email;P004;Notebook Set;Stationery;3;189,90 ₺;15%;Completed;484,25 ₺
+O0092;2026-03-20;C033;İstanbul;Organic;P006;Water Bottle;Lifestyle;3;279,90 ₺;10%;Completed;755,73 ₺
+O0093;2026-05-18;C024;İstanbul;Paid Search;P004;Notebook Set;Stationery;3;189,90 ₺;0%;Returned;0,00 ₺
+O0094;2026-06-02;C037;Ankara;Paid Search;P008;Headphones;Electronics;3;1.599,90 ₺;15%;Cancelled;0,00 ₺
+O0095;2026-03-19;C002;Antalya;Paid Search;P005;Desk Organizer;Home & Office;2;349,90 ₺;5%;Completed;664,81 ₺
+O0096;2026-03-16;C017;Bursa;Organic;P005;Desk Organizer;Home & Office;1;349,90 ₺;0%;Cancelled;0,00 ₺
+O0097;2026-04-23;C044;İstanbul;Organic;P001;Wireless Mouse;Electronics;3;549,90 ₺;10%;Completed;1.484,73 ₺
+O0098;2026-04-13;C063;Ankara;Referral;P005;Desk Organizer;Home & Office;4;349,90 ₺;0%;Completed;1.399,60 ₺
+O0099;2026-03-19;C011;İstanbul;Organic;P001;Wireless Mouse;Electronics;2;549,90 ₺;0%;Cancelled;0,00 ₺
+O0100;2026-04-26;C057;İzmir;Referral;P007;Laptop Stand;Home & Office;2;749,90 ₺;15%;Completed;1.274,83 ₺
+O0101;2026-01-16;C013;İstanbul;Paid Search;P007;Laptop Stand;Home & Office;3;749,90 ₺;15%;Cancelled;0,00 ₺
+O0102;2026-02-14;C010;İstanbul;Organic;P005;Desk Organizer;Home & Office;1;349,90 ₺;0%;Completed;349,90 ₺
+O0103;2026-03-16;C005;İstanbul;Social;P007;Laptop Stand;Home & Office;4;749,90 ₺;15%;Completed;2.549,66 ₺
+O0104;2026-03-01;C034;Antalya;Paid Search;P005;Desk Organizer;Home & Office;4;349,90 ₺;0%;Returned;0,00 ₺
+O0105;2026-06-15;C020;İzmir;Paid Search;P007;Laptop Stand;Home & Office;1;749,90 ₺;15%;Completed;637,41 ₺
+O0106;2026-06-02;C037;Bursa;Organic;P002;Mechanical Keyboard;Electronics;1;1.299,90 ₺;0%;Completed;1.299,90 ₺
+O0107;2026-05-09;C070;Bursa;Email;P008;Headphones;Electronics;3;1.599,90 ₺;10%;Completed;4.319,73 ₺
+O0108;2026-03-24;C033;Ankara;Organic;P002;Mechanical Keyboard;Electronics;1;1.299,90 ₺;10%;Returned;0,00 ₺
+O0109;2026-01-11;C023;Bursa;Referral;P004;Notebook Set;Stationery;1;189,90 ₺;5%;Cancelled;0,00 ₺
+O0110;2026-04-22;C063;Ankara;Email;P008;Headphones;Electronics;3;1.599,90 ₺;0%;Cancelled;0,00 ₺
+O0111;2026-06-21;C014;İstanbul;Social;P006;Water Bottle;Lifestyle;4;279,90 ₺;5%;Completed;1.063,62 ₺
+O0112;2026-04-13;C005;Bursa;Organic;P007;Laptop Stand;Home & Office;4;749,90 ₺;5%;Returned;0,00 ₺
+O0113;2026-04-14;C066;Ankara;Referral;P006;Water Bottle;Lifestyle;3;279,90 ₺;5%;Completed;797,71 ₺
+O0114;2026-05-13;C047;Antalya;Email;P008;Headphones;Electronics;4;1.599,90 ₺;0%;Completed;6.399,60 ₺
+O0115;2026-05-21;C017;İzmir;Email;P008;Headphones;Electronics;1;1.599,90 ₺;0%;Completed;1.599,90 ₺
+O0116;2026-06-05;C031;İstanbul;Social;P008;Headphones;Electronics;1;1.599,90 ₺;0%;Returned;0,00 ₺
+O0117;2026-01-30;C060;Ankara;Paid Search;P001;Wireless Mouse;Electronics;4;549,90 ₺;0%;Completed;2.199,60 ₺
+O0118;2026-03-11;C054;Bursa;Email;P008;Headphones;Electronics;3;1.599,90 ₺;15%;Returned;0,00 ₺
+O0119;2026-04-09;C025;Antalya;Referral;P004;Notebook Set;Stationery;4;189,90 ₺;15%;Completed;645,66 ₺
+O0120;2026-03-29;C065;İzmir;Organic;P003;USB-C Hub;Electronics;1;899,90 ₺;5%;Completed;854,90 ₺
+O0121;2026-06-18;C063;İstanbul;Email;P005;Desk Organizer;Home & Office;3;349,90 ₺;15%;Cancelled;0,00 ₺
+O0122;2026-05-20;C049;Bursa;Social;P008;Headphones;Electronics;3;1.599,90 ₺;5%;Cancelled;0,00 ₺
+O0123;2026-03-01;C053;Ankara;Social;P004;Notebook Set;Stationery;2;189,90 ₺;15%;Completed;322,83 ₺
+O0124;2026-06-16;C020;Bursa;Organic;P008;Headphones;Electronics;4;1.599,90 ₺;10%;Returned;0,00 ₺
+O0125;2026-01-26;C068;Bursa;Organic;P003;USB-C Hub;Electronics;3;899,90 ₺;0%;Completed;2.699,70 ₺
+O0126;2026-05-01;C034;İzmir;Referral;P003;USB-C Hub;Electronics;4;899,90 ₺;0%;Completed;3.599,60 ₺
+O0127;2026-05-17;C049;İzmir;Email;P007;Laptop Stand;Home & Office;1;749,90 ₺;5%;Returned;0,00 ₺
+O0128;2026-06-25;C037;İstanbul;Organic;P001;Wireless Mouse;Electronics;1;549,90 ₺;0%;Returned;0,00 ₺
+O0129;2026-02-12;C039;Ankara;Organic;P007;Laptop Stand;Home & Office;1;749,90 ₺;0%;Completed;749,90 ₺
+O0130;2026-04-06;C056;İstanbul;Paid Search;P006;Water Bottle;Lifestyle;1;279,90 ₺;5%;Completed;265,90 ₺
+O0131;2026-01-21;C049;Antalya;Paid Search;P007;Laptop Stand;Home & Office;2;749,90 ₺;0%;Completed;1.499,80 ₺
+O0132;2026-06-13;C033;Bursa;Social;P008;Headphones;Electronics;2;1.599,90 ₺;0%;Completed;3.199,80 ₺
+O0133;2026-05-20;C021;Ankara;Email;P001;Wireless Mouse;Electronics;4;549,90 ₺;5%;Returned;0,00 ₺
+O0134;2026-03-06;C059;İzmir;Paid Search;P006;Water Bottle;Lifestyle;3;279,90 ₺;10%;Returned;0,00 ₺
+O0135;2026-04-08;C046;Antalya;Social;P007;Laptop Stand;Home & Office;4;749,90 ₺;0%;Completed;2.999,60 ₺
+O0136;2026-01-03;C007;Antalya;Email;P005;Desk Organizer;Home & Office;1;349,90 ₺;10%;Completed;314,91 ₺
+O0137;2026-02-26;C025;Antalya;Social;P005;Desk Organizer;Home & Office;2;349,90 ₺;15%;Completed;594,83 ₺
+O0138;2026-04-23;C005;Antalya;Social;P003;USB-C Hub;Electronics;1;899,90 ₺;0%;Completed;899,90 ₺
+O0139;2026-04-17;C023;İstanbul;Paid Search;P003;USB-C Hub;Electronics;1;899,90 ₺;5%;Completed;854,90 ₺
+O0140;2026-05-04;C038;İzmir;Organic;P006;Water Bottle;Lifestyle;3;279,90 ₺;0%;Completed;839,70 ₺
+O0141;2026-06-23;C051;Antalya;Social;P008;Headphones;Electronics;1;1.599,90 ₺;0%;Completed;1.599,90 ₺
+O0142;2026-05-18;C016;Bursa;Social;P002;Mechanical Keyboard;Electronics;4;1.299,90 ₺;0%;Completed;5.199,60 ₺
+O0143;2026-06-22;C030;Bursa;Organic;P005;Desk Organizer;Home & Office;4;349,90 ₺;5%;Completed;1.329,62 ₺
+O0144;2026-04-29;C039;Bursa;Organic;P006;Water Bottle;Lifestyle;2;279,90 ₺;0%;Returned;0,00 ₺
+O0145;2026-05-07;C015;Ankara;Paid Search;P003;USB-C Hub;Electronics;1;899,90 ₺;0%;Completed;899,90 ₺
+O0146;2026-06-21;C070;Bursa;Referral;P003;USB-C Hub;Electronics;4;899,90 ₺;10%;Completed;3.239,64 ₺
+O0147;2026-06-07;C053;İzmir;Organic;P003;USB-C Hub;Electronics;4;899,90 ₺;0%;Completed;3.599,60 ₺
+O0148;2026-03-02;C047;Ankara;Social;P006;Water Bottle;Lifestyle;2;279,90 ₺;10%;Completed;503,82 ₺
+O0149;2026-02-18;C016;Bursa;Organic;P006;Water Bottle;Lifestyle;1;279,90 ₺;10%;Completed;251,91 ₺
+O0150;2026-03-04;C017;Antalya;Paid Search;P004;Notebook Set;Stationery;1;189,90 ₺;0%;Completed;189,90 ₺
+O0151;2026-03-01;C043;İstanbul;Referral;P002;Mechanical Keyboard;Electronics;2;1.299,90 ₺;15%;Completed;2.209,83 ₺
+O0152;2026-05-19;C033;İstanbul;Organic;P001;Wireless Mouse;Electronics;3;549,90 ₺;0%;Completed;1.649,70 ₺
+O0153;2026-03-02;C042;Ankara;Paid Search;P001;Wireless Mouse;Electronics;2;549,90 ₺;0%;Completed;1.099,80 ₺
+O0154;2026-04-18;C068;Ankara;Organic;P005;Desk Organizer;Home & Office;1;349,90 ₺;0%;Returned;0,00 ₺
+O0155;2026-06-01;C014;Bursa;Referral;P008;Headphones;Electronics;4;1.599,90 ₺;5%;Cancelled;0,00 ₺
+O0156;2026-04-28;C004;Ankara;Email;P004;Notebook Set;Stationery;1;189,90 ₺;15%;Completed;161,41 ₺
+O0157;2026-04-24;C010;Ankara;Social;P007;Laptop Stand;Home & Office;4;749,90 ₺;0%;Completed;2.999,60 ₺
+O0158;2026-06-09;C042;Bursa;Referral;P003;USB-C Hub;Electronics;1;899,90 ₺;0%;Completed;899,90 ₺
+O0159;2026-04-21;C013;Ankara;Referral;P005;Desk Organizer;Home & Office;4;349,90 ₺;15%;Cancelled;0,00 ₺
+O0160;2026-04-16;C044;Bursa;Email;P004;Notebook Set;Stationery;4;189,90 ₺;10%;Completed;683,64 ₺
+O0161;2026-03-22;C033;İzmir;Paid Search;P007;Laptop Stand;Home & Office;1;749,90 ₺;5%;Completed;712,40 ₺
+O0162;2026-01-24;C056;Ankara;Social;P008;Headphones;Electronics;1;1.599,90 ₺;0%;Completed;1.599,90 ₺
+O0163;2026-05-24;C043;Ankara;Email;P003;USB-C Hub;Electronics;1;899,90 ₺;15%;Cancelled;0,00 ₺
+O0164;2026-06-03;C040;İzmir;Organic;P006;Water Bottle;Lifestyle;4;279,90 ₺;0%;Completed;1.119,60 ₺
+O0165;2026-01-28;C045;Antalya;Social;P004;Notebook Set;Stationery;2;189,90 ₺;10%;Completed;341,82 ₺
+O0166;2026-04-20;C004;Antalya;Social;P002;Mechanical Keyboard;Electronics;3;1.299,90 ₺;15%;Completed;3.314,75 ₺
+O0167;2026-03-21;C044;İzmir;Organic;P001;Wireless Mouse;Electronics;2;549,90 ₺;5%;Returned;0,00 ₺
+O0168;2026-04-13;C009;İstanbul;Organic;P003;USB-C Hub;Electronics;2;899,90 ₺;15%;Returned;0,00 ₺
+O0169;2026-04-27;C044;İstanbul;Social;P002;Mechanical Keyboard;Electronics;2;1.299,90 ₺;10%;Completed;2.339,82 ₺
+O0170;2026-01-22;C007;İstanbul;Paid Search;P005;Desk Organizer;Home & Office;3;349,90 ₺;15%;Cancelled;0,00 ₺
+O0171;2026-06-19;C055;Bursa;Referral;P001;Wireless Mouse;Electronics;1;549,90 ₺;5%;Completed;522,40 ₺
+O0172;2026-05-12;C015;İzmir;Email;P008;Headphones;Electronics;4;1.599,90 ₺;5%;Completed;6.079,62 ₺
+O0173;2026-05-15;C040;Ankara;Paid Search;P002;Mechanical Keyboard;Electronics;3;1.299,90 ₺;15%;Completed;3.314,75 ₺
+O0174;2026-03-19;C028;İstanbul;Social;P007;Laptop Stand;Home & Office;1;749,90 ₺;0%;Completed;749,90 ₺
+O0175;2026-05-08;C056;İstanbul;Paid Search;P005;Desk Organizer;Home & Office;3;349,90 ₺;0%;Completed;1.049,70 ₺
+O0176;2026-06-21;C046;Ankara;Email;P007;Laptop Stand;Home & Office;2;749,90 ₺;15%;Cancelled;0,00 ₺
+O0177;2026-01-20;C041;Antalya;Email;P001;Wireless Mouse;Electronics;4;549,90 ₺;0%;Completed;2.199,60 ₺
+O0178;2026-04-14;C003;İzmir;Paid Search;P007;Laptop Stand;Home & Office;4;749,90 ₺;5%;Completed;2.849,62 ₺
+O0179;2026-01-28;C032;Bursa;Referral;P008;Headphones;Electronics;3;1.599,90 ₺;0%;Completed;4.799,70 ₺
+O0180;2026-03-28;C029;İzmir;Paid Search;P007;Laptop Stand;Home & Office;1;749,90 ₺;10%;Completed;674,91 ₺
+O0181;2026-02-19;C045;İzmir;Paid Search;P002;Mechanical Keyboard;Electronics;1;1.299,90 ₺;15%;Cancelled;0,00 ₺
+O0182;2026-02-20;C023;Antalya;Paid Search;P004;Notebook Set;Stationery;1;189,90 ₺;0%;Completed;189,90 ₺
+O0183;2026-05-25;C058;Antalya;Referral;P002;Mechanical Keyboard;Electronics;2;1.299,90 ₺;10%;Completed;2.339,82 ₺
+O0184;2026-01-18;C061;Bursa;Social;P006;Water Bottle;Lifestyle;3;279,90 ₺;0%;Completed;839,70 ₺
+O0185;2026-01-19;C040;Bursa;Email;P005;Desk Organizer;Home & Office;1;349,90 ₺;5%;Cancelled;0,00 ₺
+O0186;2026-01-20;C012;Antalya;Referral;P001;Wireless Mouse;Electronics;1;549,90 ₺;5%;Completed;522,40 ₺
+O0187;2026-01-11;C058;Antalya;Paid Search;P007;Laptop Stand;Home & Office;4;749,90 ₺;15%;Cancelled;0,00 ₺
+O0188;2026-01-16;C058;Ankara;Social;P006;Water Bottle;Lifestyle;4;279,90 ₺;15%;Completed;951,66 ₺
+O0189;2026-04-23;C057;Antalya;Referral;P002;Mechanical Keyboard;Electronics;2;1.299,90 ₺;0%;Completed;2.599,80 ₺
+O0190;2026-04-10;C053;İzmir;Referral;P003;USB-C Hub;Electronics;3;899,90 ₺;5%;Completed;2.564,71 ₺
+O0191;2026-01-25;C050;İzmir;Social;P001;Wireless Mouse;Electronics;3;549,90 ₺;0%;Completed;1.649,70 ₺
+O0192;2026-06-19;C019;İzmir;Social;P003;USB-C Hub;Electronics;3;899,90 ₺;0%;Cancelled;0,00 ₺
+O0193;2026-01-22;C040;Antalya;Email;P007;Laptop Stand;Home & Office;2;749,90 ₺;15%;Returned;0,00 ₺
+O0194;2026-06-15;C055;Antalya;Social;P006;Water Bottle;Lifestyle;2;279,90 ₺;15%;Completed;475,83 ₺
+O0195;2026-02-24;C044;Bursa;Paid Search;P001;Wireless Mouse;Electronics;3;549,90 ₺;5%;Completed;1.567,21 ₺
+O0196;2026-03-17;C013;Antalya;Referral;P004;Notebook Set;Stationery;2;189,90 ₺;0%;Completed;379,80 ₺
+O0197;2026-06-02;C049;İstanbul;Paid Search;P001;Wireless Mouse;Electronics;3;549,90 ₺;15%;Completed;1.402,24 ₺
+O0198;2026-04-16;C047;İstanbul;Email;P003;USB-C Hub;Electronics;2;899,90 ₺;10%;Completed;1.619,82 ₺
+O0199;2026-03-03;C040;Bursa;Paid Search;P005;Desk Organizer;Home & Office;4;349,90 ₺;0%;Cancelled;0,00 ₺
+O0200;2026-04-08;C065;Antalya;Email;P006;Water Bottle;Lifestyle;4;279,90 ₺;10%;Completed;1.007,64 ₺
